@@ -1,47 +1,49 @@
-## Introducing Myself 
+## **Introducing Myself**
 
-Hello, I’m Aicha GHANAM.
+Hello, I’m Aicha GHANAM.  
 A passionate about analysis with strong expertise in problem-solving, analysis, and delivering efficient, results-driven solutions.
 
 I help businesses and teams turn ideas into impactful solutions by combining technical skills, analytical thinking, and a structured approach to every project.
 
-💼 What I Do
+## **💼 What I Do**
 
-Data analysis and insights generation
+Data analysis and insights generation  
 
-Reporting and dashboard creation
+Reporting and dashboard creation  
 
-Process optimization and performance improvement
+Process optimization and performance improvement  
 
-Developing technical solutions tailored to business needs
+Developing technical solutions tailored to business needs  
 
-Collaborating with cross-functional teams
+Collaborating with cross-functional teams  
 
-📚 Projects
+## **📚 Projects**
 
 Welcome to my portfolio, where I showcase selected projects that highlight my technical skills, creativity, and attention to detail.
 
-🛠️ Tools & Technologies
+## **🛠️ Tools & Technologies**
 
-Languages: [Python, SQL, JavaScript, etc.]
-Tools: [Excel, Power BI, Tableau, Git, etc.]
-Databases: [MySQL, PostgreSQL, BigQuery, etc.]
+Languages: [Python, SQL, Java, etc.]  
+Tools: [Excel, Power BI, Tableau, Git, etc.]  
+Databases: [MySQL, PostgreSQL, BigQuery, etc.]  
 Other: [Cloud, APIs, Automation, etc.]
 
-🌟 Strengths
+## **🌟 Strengths**
 
-Analytical mindset
+Analytical mindset  
 
-Fast learner
+Fast learner  
 
-Detail-oriented
+Detail-oriented  
 
-Strong communication
+Strong communication  
 
-Results-driven
+Results-driven  
 
-👋 Connect With Me
+## **👋 Connect With Me**
 
-LinkedIn
-Email
+LinkedIn  
+
+Email  
+
 Portfolio
