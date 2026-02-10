@@ -5,7 +5,7 @@ A passionate about analysis with strong expertise in problem-solving, analysis, 
 
 I help businesses and teams turn ideas into impactful solutions by combining technical skills, analytical thinking, and a structured approach to every project.
 
-## **💼 What I Do**
+## ** What I Do**
 
 Data analysis and insights generation  
 
@@ -21,14 +21,14 @@ Collaborating with cross-functional teams
 
 Welcome to my portfolio, where I showcase selected projects that highlight my technical skills, creativity, and attention to detail.
 
-## **🛠️ Tools & Technologies**
+## ** Tools & Technologies**
 
 Languages: [Python, SQL, Java, etc.]  
 Tools: [Excel, Power BI, Tableau, Git, etc.]  
 Databases: [MySQL, PostgreSQL, BigQuery, etc.]  
 Other: [Cloud, APIs, Automation, etc.]
 
-## **🌟 Strengths**
+## ** Strengths**
 
 Analytical mindset  
 
@@ -40,10 +40,6 @@ Strong communication
 
 Results-driven  
 
-## **👋 Connect With Me**
+## ** Connect With Me**
 
-LinkedIn  
-
-Email  
-
-Portfolio
+https://aichaghanam.github.io/
