@@ -17,7 +17,7 @@ Developing technical solutions tailored to business needs
 
 Collaborating with cross-functional teams  
 
-## **📚 Projects**
+## ** Projects**
 
 Welcome to my portfolio, where I showcase selected projects that highlight my technical skills, creativity, and attention to detail.
 
